@@ -1,0 +1,59 @@
+h1 {
+	text-align: center;
+	font-size: 48px;
+	margin-top: 70px;
+}
+.pic {
+	width: ;
+	border-radius:5px;
+	height: auto;
+
+
+}
+.head {
+	width: 25%;
+	background-color: #F6F5F0;
+	font-family: serif;
+	font-size:19px;
+}
+main {
+	padding-right: 20px;
+	padding-left: 20px;
+	margin: auto;
+	background-color: #F6F0F1;
+	max-width: 1500px;
+}
+body {
+	background-image: url("https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?w=1380&t=st=1669126307~exp=1669126907~hmac=ad607c7ead8918e0b31583e5a95c6936bc17a05e439669b31dda57f9154b6a10");
+}
+hr {
+	width: 70%;
+	border-color: black;
+	background-color: black;
+	height: 2px;
+}
+.article {
+	display: inline-block;
+	font-family: serif;
+	font-size: 28px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.j1 {
+	font-family: serif;
+	font-size: 28px;
+	margin-left: auto;
+	margin-right: auto;
+}
+section {
+	font-family: sans-serif;
+	font-size: 28px;
+}
+.comment {
+	text-align: center;
+	display: inline-block;
+}
+footer {
+	text-align: center;
+}
